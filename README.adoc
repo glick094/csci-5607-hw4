@@ -33,6 +33,8 @@ video::CubeLit.mp4[width=800,start=0,opts="autoplay,loop"]
 
 video::ModelLoad.mp4[width=800,start=0,opts="autoplay,loop"]
 
+video::ModelLoadKnot.mp4[width=800,start=0,opts="autoplay,loop"]
+
 == Part B - Quick Checks Questions 
 // (5 point per problem, 20 points total):
 
